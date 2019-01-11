@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto"
+      xmlns:tools="http://schemas.android.com/tools"
+      tools:context="edu.rosehulman.kime2.comicviewer.MainActivity">
+    <item android:id="@+id/action_settings"
+          android:title="@string/action_settings"
+          android:orderInCategory="100"
+          app:showAsAction="never"/>
+
+    <item android:id="@+id/action_show_alt_text"
+          android:title="@string/alt_text_title"
+          android:icon="@android:drawable/ic_menu_info_details"
+          android:orderInCategory="100"
+          app:showAsAction="ifRoom"/>
+</menu>

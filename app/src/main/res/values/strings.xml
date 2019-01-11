@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ComicViewer</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="alt_text_title">Mouseover text for %d</string>
+    <string name="comic_title">Comic title</string>
+</resources>
